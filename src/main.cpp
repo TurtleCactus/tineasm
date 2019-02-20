@@ -3,6 +3,4 @@
 int main()
 {
     std::cout<<"ayy lmao";
-
-
 }
